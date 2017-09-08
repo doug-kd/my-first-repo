@@ -1,5 +1,6 @@
-**Lets try this again**
-_Whey to go I loooooove italics_
+<h1>Doug's Webpage</h1>
+<h2>What do we know</h2>
+<h2>How to do this</h2>
 
-<h1>Test</h1>
-<h1> Test </h1>
+_hello hello hello_
+**Yeah**
